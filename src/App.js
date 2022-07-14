@@ -25,7 +25,7 @@ function App() {
   })
 
   return (
-    <div>
+    <div className='container'>
         <Navbar />
         <Hero />
         <section className='cards-list'>
